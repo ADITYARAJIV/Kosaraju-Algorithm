@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652880352 source:c:\rajiv\aditya\codeblocks\kosarajualgorithm\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stack>
+
